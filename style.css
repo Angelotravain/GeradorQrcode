@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #333;
+    color: white;
+}
+#qrcode-align{
+position: relative;
+
+}
+.btqrcode{
+    border: none;
+    width: 200px;
+    height: 30px;
+    background-color: green;
+}
+#align{
+    width: 300px;
+    margin: auto;
+}
+.btqrcode:hover{
+background-color: white;
+color: #333;
+}
+#text-area{
+    border: 2px solid white;
+}
+#nome{
+    width: 200px;
+    text-align: justify;
+    color: white;
+}
